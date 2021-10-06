@@ -1,4 +1,4 @@
-# PY Study
+# Python Study (Economics Data Skill)
 Econ-GA-4002\
 Mathematical Foundations for Computational Social Science \
 Taught by Sargent \
